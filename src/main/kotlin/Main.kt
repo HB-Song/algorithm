@@ -1,3 +1,3 @@
 fun main(args: Array<String>) {
-    solution1000()
+    solution1001()
 }
